@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to My Learning Blog",
+    "date": "2024-12-18",
+    "tags": ["introduction"],
+    "content": "This is my first blog post where I share my learning journey!",
+    "image": "images/welcome.png"
+  },
+  {
+    "id": 2,
+    "title": "Understanding WebGL2 Basics",
+    "date": "2024-12-19",
+    "tags": ["WebGL2", "3D Graphics"],
+    "content": "In this post, I explore the basics of WebGL2, including how to set up a simple 3D scene.",
+    "image": "images/webgl2.png"
+  }
+]

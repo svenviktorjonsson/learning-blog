@@ -1,0 +1,29 @@
+/* Basic styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 2rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+.post {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.post img {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.post h2 {
+    margin-top: 0;
+}
